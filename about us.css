@@ -1,0 +1,191 @@
+body{
+  
+  
+	background: black;
+   
+   background-image: url("photos/bg.jpg");
+   background-repeat: no-repeat;
+   background-size:1000px;
+   background-attachment: fixed;
+   background-position: center;
+   background-size: cover;
+
+  }
+  .logob{
+	width: 90px;
+	height: 90px;
+	
+	}
+	
+	.header{
+  
+	 /* background-color: #000000; */
+	 border: 5px solid gold ;
+	 width: 100%;
+	 margin: 0%;
+	 padding : 0px;
+	 display: flex;
+	 align-items: left;
+	justify-content: space-between;
+	}
+  
+	.header h1 {
+	  color:gold;
+	  padding-left: 10px;
+	}
+  
+	.header ul li{
+	  display: inline-block;
+	  list-style: none;
+	  margin: 15px 20px;
+	  align-items: left;
+	}
+  
+  .header ul li a{
+	  text-decoration: none;
+	  /* color: #000000; */
+	  color: gold;
+  }
+  
+  .header ul li a:hover{
+	  color: #ff4321;
+  } 
+  .firstP{
+    font-size: 25px;
+    text-align: left;
+    color: gold;
+	margin-left: 400px;
+	margin-right: 400px;
+	text-align: left;
+}
+
+button{
+    padding: 10px 15px;
+	border-radius:10px;
+	font-size: 25px;
+	font-weight: bolder;
+	cursor:pointer;
+    text-align: center;
+    margin-left: 600px;
+	margin-bottom: 30px;
+}
+
+h2{
+	border: 2px solid gold;
+	margin-right: 600px;
+	margin-left: 550px;
+	color:gold;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font-size: 30px;
+
+}
+.secondP{
+	font-size: 25px;
+    text-align: left;
+    color: gold;
+	margin-left: 400px;
+	margin-right: 400px;
+	text-align: left;	
+
+}
+
+.safezone{
+	font-size: 30px;
+}
+
+
+ 
+ .one p{
+ color:gold;
+ text-align: center;
+ font-size: 30px;
+ }
+ 
+  .video1{
+   border: 5px solid gold ;
+   margin: 0 auto;
+   width: 950px;
+   height: 480px ;
+   display: block;
+   margin-bottom: 30px;
+  }
+ 
+  /* img {
+   margin-right: 20px;
+   margin-bottom: 20px;
+ } */
+ 
+ .picture2{
+   border: 5px solid gold ;
+   width: 380px;
+ }
+ 
+ .picture3{
+ border: 5px solid gold ;
+ width:380px;
+ }
+ 
+ .picture4{
+   border: 5px solid gold ;
+   width: 380px;
+ }
+
+ .firstThreePics{
+   padding-left: 50px;
+ }
+
+ .picture5{
+   border: 5px solid gold ;
+   width: 380px;
+ }
+ 
+ .picture6{
+ border: 5px solid gold ;
+ width:380px;
+ }
+ 
+ .picture7{
+   border: 5px solid gold ;
+   width: 380px;
+ }
+
+ .secondThreePics{
+   padding-left: 50px;
+ }
+
+ .picture8{
+   border: 5px solid gold ;
+   width: 380px;
+ }
+
+ .picture9{
+   border: 5px solid gold ;
+   width: 380px;
+ }
+ 
+ .picture10{
+   border: 5px solid gold ;
+   width: 380px;
+ }
+
+ .thirdThreePics{
+   padding-left: 50px;
+ }
+
+ .picture11{
+   border: 5px solid gold ;
+   width: 380px;
+ }
+
+ .picture1{
+   border: 5px solid gold ;
+   width: 380px;
+ }
+
+ .lastPics{
+   padding-left: 50px;
+ }
+ 
